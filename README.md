@@ -1,5 +1,7 @@
 E-Commerce Website
-Description
+
+
+
 This project is a full-fledged E-commerce website designed for the sale of clothing for Men, Women, and Kids. The website has both frontend and backend components, connected to a database for a seamless user experience. The website includes essential e-commerce features like Login, Logout, and a Shopping Cart with the ability to view Cart Totals. It is a responsive website, making it accessible on all device types.
 
 Features
