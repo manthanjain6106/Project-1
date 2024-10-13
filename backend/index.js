@@ -10,7 +10,7 @@ const cors = require("cors");
 app.use(express.json());
 app.use(cors());
 
-mongoose.connect("mongodb+srv://manthan_jain_9530:jain1234@cluster0.n1vnnj2.mongodb.net/");
+mongoose.connect("mongodb+srv://manthan_jain_9530:<password>@cluster0.n1vnnj2.mongodb.net/");
 
 // Image storage engine
 const storage = multer.diskStorage({
