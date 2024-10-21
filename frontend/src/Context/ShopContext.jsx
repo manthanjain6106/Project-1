@@ -55,6 +55,8 @@ const ShopContextProvider = (props) => {
                 .then((data) => console.log("Added to cart:", data))
                 .catch((error) => console.error("Error adding to cart:", error));
         }
+
+        window.scroll(0,0);
     }
 
     const removeFromCart = (itemId) => {
